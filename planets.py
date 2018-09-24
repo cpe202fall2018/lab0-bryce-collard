@@ -1,5 +1,7 @@
+#Lab 0
+#Bryce Collard
+#CPE 202 (Parkinson)
 def weight_on_planets():
-   # write your code here
    userWeight = int(input("What do you weigh on earth? "))
    weightOnMars = .38 * userWeight
    weightOnJupiter = 2.34 * userWeight
